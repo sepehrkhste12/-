@@ -1,0 +1,6 @@
+{
+  "name": "Zendegi - Real-Life Stories & Psychological Publishing",
+  "description": "A premium digital publishing and subscription platform for real-life stories, psychological analysis, emotional healing, and personal growth by a professional author.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
